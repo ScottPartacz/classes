@@ -20,10 +20,5 @@ Vehicle
 + wheels: int
 + model: string
 + make: string
-+ age: int
-+ mileage: int
-+ speed: int
 --------
-+ accelerate()
-+ brake()
-+ start()
++ move()
