@@ -4,8 +4,7 @@ Animal
 + height: int
 + weight: int
 + age: int
---------
-+ move() 
+
 
 Book
 --------
@@ -13,9 +12,6 @@ Book
 + auther: string
 + pages: int
 + page_number: int
---------
-+ read()
-+ turn_page()
 
 Vehicle
 --------
@@ -27,7 +23,3 @@ Vehicle
 + engine: string
 + gas_tank: int
 + speed: int
---------
-+ move() 
-+ accelerate()
-+ brake()
