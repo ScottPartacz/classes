@@ -19,6 +19,5 @@ Vehicle
 + name: string
 + wheels: int
 + model: string
-+ make: string
 --------
 + move()
