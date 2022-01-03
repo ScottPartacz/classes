@@ -11,7 +11,7 @@ Book
 + name: string
 + auther: string
 + pages: int
-+ page_number: int
++ publisher: string
 
 Vehicle
 --------
@@ -20,6 +20,5 @@ Vehicle
 + model: string
 + make: string
 + age: int
-+ engine: string
-+ gas_tank: int
++ mileage: int
 + speed: int
