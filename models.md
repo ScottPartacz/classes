@@ -4,7 +4,8 @@ Animal
 + height: int
 + weight: int
 + age: int
-
+--------
++ move()
 
 Book
 --------
@@ -22,3 +23,7 @@ Vehicle
 + age: int
 + mileage: int
 + speed: int
+--------
++ accelerate()
++ brake()
++ start()
